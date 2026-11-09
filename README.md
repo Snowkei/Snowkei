@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Snowkei?style=flat-square&label=followers&color=6f7bd4)](https://github.com/Snowkei?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Snowkei?style=flat-square&label=stars&color=6f7bd4)](https://github.com/Snowkei?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Snowkei&style=flat-square&color=6f7bd4&label=viewers)](https://github.com/Snowkei)
+[![Since](https://img.shields.io/badge/since-2019--07-6f7bd4?style=flat-square)](https://github.com/Snowkei)
 
 </div>
 
@@ -90,8 +90,14 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Snowkei&show_icons=true&hide_border=true&theme=transparent&locale=cn" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowkei&layout=compact&hide_border=true&theme=transparent&langs_count=8&locale=cn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snowkei&theme=github_dark">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snowkei&theme=github">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snowkei&theme=github_dark">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snowkei&theme=github">
+</picture>
 
 <img src="https://streak-stats.demolab.com?user=Snowkei&theme=transparent&hide_border=true&locale=zh&date_format=%5BY.%5Dn.j" />
 
